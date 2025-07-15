@@ -1,0 +1,16 @@
+body {
+  background-image: url(Fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.encabezado {
+  background-color: rgb(146, 43, 33, 0.9);
+  border-radius: 10px;
+  box-shadow: 0 4px, 8px, 0 rgba(0, 0, 0, 0.5);
+  margin: 20px auto;
+}
+.encabezado {
+  color: rgb(249, 231, 159);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
